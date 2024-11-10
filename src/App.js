@@ -98,6 +98,7 @@ export default function Game(){
   )
 }
 
+
 function calcWinner(squares){
   const lines = [
     [0, 1, 2],
